@@ -1,0 +1,2 @@
+latest = v1.03
+stable = v1.01
